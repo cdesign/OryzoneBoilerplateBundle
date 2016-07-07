@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "symfony/framework-bundle": ">=2.0,<3.0-dev",
+        "symfony/framework-bundle": ">=2.0",
         "components/html5-boilerplate": "4.3.*",
         "components/jquery": ">=1.10.2,<=1.11.2"
     },
